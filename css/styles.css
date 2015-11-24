@@ -15,16 +15,14 @@ header img {
     height: 70px;
 }
 .page-title {
-   width: 100%;
-   background-color: #fbd433;
-   margin-top: 50px;
-   padding-top: 30px;
-   padding-bottom: 50px;
-   padding: 50px;
-   margin-left:-20px;
-
+    width: 100%;
+    background-color: #fbd433;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding: 50px;
+    margin-left: -20px;
 }
-
 .page-title h1 {
     padding: 0;
     margin: 0;
@@ -41,7 +39,7 @@ header img {
     height: 600px;
     margin-top: 30px;
     text-align: left;
-    color:#800000 ;
+    color: #800000;
 }
 #hero h1 {
     font-family: sans-serif;
@@ -60,8 +58,7 @@ header img {
     font-size: 16px;
 }
 .one,
-.three
- {
+.three {
     background-color: #FFF;
     text-align: justify;
     font-size: 16px;
@@ -73,8 +70,7 @@ header img {
     color: black;
 }
 .two,
-.four
- {
+.four {
     background-color: #FFF;
     font-size: 16px;
     text-align: justify;
@@ -85,7 +81,6 @@ header img {
     color: white;
     font-family: sans-serif;
 }
-
 {
     .one, .two, .three, .four
 }
