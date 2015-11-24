@@ -1,0 +1,196 @@
+body {
+    background-color: white;
+}
+header {
+    width: 100%;
+    background: #fbd433;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-bottom: solid 2px #e5c026;
+    z-index: 101;
+}
+header img {
+    width: 95px;
+    height: 70px;
+}
+.page-title {
+   width: 100%;
+   background-color: #fbd433;
+   margin-top: 50px;
+   padding-top: 30px;
+   padding-bottom: 50px;
+   padding: 50px;
+   margin-left:-20px;
+
+}
+
+.page-title h1 {
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #333;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+#hero {
+    background-image: url("../images/12047.jpg");
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 30px;
+    text-align: left;
+    color:#800000 ;
+}
+#hero h1 {
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: right;
+}
+#hero p {
+    font-size: 18px;
+    padding-left: 500px;
+    float: right;
+}
+#content {
+    margin-top: 10px;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.one,
+.three
+ {
+    background-color: #FFF;
+    text-align: justify;
+    font-size: 16px;
+    font-family: sans-serif;
+    height: 250px;
+    margin-top: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: black;
+}
+.two,
+.four
+ {
+    background-color: #FFF;
+    font-size: 16px;
+    text-align: justify;
+    height: 250px;
+    margin-top: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    color: white;
+    font-family: sans-serif;
+}
+
+{
+    .one, .two, .three, .four
+}
+h2 {
+    color: black;
+}
+#content .one {
+    background-image: url("../images/gita.jpg");
+    background-repeat: no-repeat;
+}
+#content .two {
+    background-image: url("../images/chokher.jpg");
+    background-repeat: no-repeat;
+}
+#content .three {
+    background-image: url("../images/gita.jpg");
+    background-repeat: no-repeat;
+}
+#content .four {
+    background-image: url("../images/chokher.jpg");
+    background-repeat: no-repeat;
+}
+#first {
+    margin-top: 10px;
+}
+#first .subsection {
+    height: 250px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    padding: 15px;
+    background-color: #FFF;
+    box-sizing: border-box;
+}
+#first .subsection h2 {
+    color: #fbd433;
+}
+#second {
+    margin-top: 20px;
+    padding-top: 30px;
+    background-color: #FFF;
+    font-size: 16px;
+}
+#second h2 {
+    color: #fbd433;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+#second h2 span {
+    display: block;
+    color: #454545;
+    padding: 0;
+}
+#second p {
+    font-family: sans-serif;
+    color: #555;
+    font-size: 16px;
+}
+#third {
+    margin-top: 20px;
+    background-color: #FFF;
+    padding-top: 20px;
+}
+#third h2 {
+    color: #fbd433;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+#third h2 span {
+    display: block;
+    color: #454545;
+    padding: 0;
+}
+#third li {
+    font-size: 16px;
+    color: #555;
+}
+footer {
+    margin-top: 20px;
+    background-color: #fbd433;
+    padding-top: 20px;
+    margin-right: -90px;
+    margin-left: -20px;
+}
+nav li {
+    display: inline;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    float: right;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+header a {
+    color: black;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+#content a {
+    color: blue;
+}
+#primary a {
+    color: blue;
+}
